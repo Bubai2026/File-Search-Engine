@@ -1,0 +1,3 @@
+Graph algorithms work with vertices and edges.
+Common graph algorithms include BFS, DFS and shortest path algorithms.
+Graph problems are an important part of data structures and algorithms.

@@ -1,0 +1,3 @@
+Dynamic programming is an algorithmic technique.
+It solves problems by storing results of smaller subproblems.
+Common DP problems include knapsack, grid paths and longest common subsequence.

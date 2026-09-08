@@ -1,0 +1,4 @@
+Data structures and algorithms are important for programming.
+Common data structures include array, vector, stack, queue and graph.
+Algorithms include sorting, searching, dynamic programming and graph algorithms.
+C++ is commonly used to implement DSA solutions.

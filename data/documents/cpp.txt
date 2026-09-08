@@ -1,0 +1,3 @@
+C++ is a programming language.
+C++ supports classes, objects, inheritance and polymorphism.
+The standard library provides vector, map and unordered_map.
